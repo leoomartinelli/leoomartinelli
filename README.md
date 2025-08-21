@@ -2,7 +2,7 @@
 
 🎓 Estudante do último ano na **Univap Centro**  
 💻 Estagiando no **Colégio Crescer**, desenvolvendo um site institucional  
-🧑‍💻 Tenho 17 anos e sou apaixonado por tecnologia, programação e criatividade  
+🧑‍💻 Tenho 17 anos e sou apaixonado por tecnologia, programação e como hobbie o áudio visual
 
 ---
 
