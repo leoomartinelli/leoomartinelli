@@ -42,7 +42,7 @@
 ## 🌐 Onde me encontrar  
 
 <p align="left">
-  <a href="mailto:martinelliunivap@gmail.com" target="_blank">
+  <a href="mailto:leomartinelli07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/_leomartinelli" target="_blank">
