@@ -31,6 +31,13 @@
 
 ---
 
+## 🎓 Trabalho de Conclusão de Curso  
+
+Atualmente desenvolvendo meu **TCC** para a **House** (empresa criativa de design gráfico da Igreja da Cidade), que consiste em um **sistema de gestão e automação de pedidos**.  
+O projeto tem como objetivo centralizar solicitações, otimizar fluxos de trabalho e gerar relatórios para auxiliar na organização e produtividade da equipe criativa.
+
+---
+
 ## 📊 Estatísticas  
 
 <p align="left">
