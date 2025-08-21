@@ -1,8 +1,14 @@
+<!-- Banner animado ou imagem de destaque -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=%20Martinelli&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
+
 # 👋 Olá, eu sou o Leonardo Martinelli  
 
 🎓 Estudante do último ano na **Univap Centro**  
 💻 Estagiando no **Colégio Crescer**, desenvolvendo um site institucional  
-🧑‍💻 Tenho 17 anos e sou apaixonado por tecnologia, programação e como hobbie o áudio visual
+🏅 **5º Lugar na 14ª Maratona de Programação Júnior - 2025**  
+🧑‍💻 Tenho **17 anos** e sou apaixonado por **tecnologia, programação** e como hobbie o **áudio visual**  
 
 ---
 
@@ -18,20 +24,42 @@
 
 ---
 
-## 📊 GitHub Status  
+## 📌 Projetos em Destaque  
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoomartinelli&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoomartinelli&layout=compact&theme=radical)
-
----
-
-## 📫 Como me encontrar  
-
-- 📧 Email: **martinelliunivap@gmail.com**  
-- 📷 Instagram Pessoal: [\_leomartinelli](https://instagram.com/_leomartinelli)  
-- 🎨 Instagram Criativo: [martinelli.raw](https://instagram.com/martinelli.raw)  
+🔗 [**Sistema Crescer**](https://github.com/leoomartinelli/sistema_crescer) – Site institucional do Colégio Crescer  
+📑 [**TCC - Univap**](https://github.com/leoomartinelli/TCC) – Trabalho de Conclusão de Curso  
 
 ---
 
-✨ *Sempre aprendendo, sempre crescendo.*  
+## 📊 Estatísticas  
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoomartinelli&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Onde me encontrar  
+
+<p align="left">
+  <a href="mailto:martinelliunivap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_leomartinelli" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20Pessoal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/martinelli.raw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20Criativo-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Sempre aprendendo, sempre crescendo.* ✨
+</p>
+
+<!-- Rodapé animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer"/>
+</p>
