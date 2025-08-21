@@ -41,17 +41,9 @@
 
 ## 🌐 Onde me encontrar  
 
-<p align="left">
-  <a href="mailto:leomartinelli07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_leomartinelli" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20Pessoal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/martinelli.raw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20Criativo-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+- 📧 Email: [martinelliunivap@gmail.com](mailto:martinelliunivap@gmail.com)  
+- 📷 Instagram Pessoal: [@_leomartinelli](https://instagram.com/_leomartinelli)  
+- 🎨 Instagram Criativo: [@martinelli.raw](https://instagram.com/martinelli.raw)  
 
 ---
 
