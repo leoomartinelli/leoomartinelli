@@ -5,22 +5,23 @@
 
 # 👋 Olá, eu sou o Leonardo Martinelli  
 
-🎓 Estudante do último ano na **Univap Centro**  
-💻 Estagiando no **Colégio Crescer**, desenvolvendo um site institucional  
+🎓 Formado em Técnico em informática no Colégio Técnico Antônio Teixeira Fernandes - Colégio Univap Centro.       
+💻 Autor do desenvolvimento "EDU SEF" sistema educacional financeiro.           
 🏅 **5º Lugar na 14ª Maratona de Programação Júnior - 2025**  
-🧑‍💻 Tenho **17 anos** e sou apaixonado por **tecnologia, programação** e como hobbie o **áudio visual**  
+🧑‍💻 Tenho **18 anos** e sou apaixonado por **tecnologia, programação** e como hobbie o **áudio visual**  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
 
-| Linguagem / Ferramenta | Nível de Uso | Observação |
-|------------------------|--------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐ | Backend e automações |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ⭐⭐⭐ | Desenvolvimento web |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐⭐ | Estrutura de páginas |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ⭐⭐⭐ | Estilização e responsividade |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ⭐⭐⭐ | Controle de versão |
+| Tecnologia | Nível | Foco |
+| :--- | :--- | :--- |
+| ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) | ⭐⭐⭐⭐⭐ | Automação e Integrações |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐⭐ | Desenvolvimento Backend |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ⭐⭐⭐⭐ | Interatividade Web |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐ | Backend e Scripts |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ⭐⭐⭐⭐ | Controle de Versão |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐ | Estrutura Web |
 
 ---
 
@@ -31,10 +32,17 @@
 
 ---
 
-## 🎓 Trabalho de Conclusão de Curso  
+### 🎓 TCC Finalizado (2025)
 
-Atualmente desenvolvendo meu **TCC** para a **House** (empresa criativa de design gráfico da Igreja da Cidade), que consiste em um **sistema de gestão e automação de pedidos**.  
-O projeto tem como objetivo centralizar solicitações, otimizar fluxos de trabalho e gerar relatórios para auxiliar na organização e produtividade da equipe criativa.
+Desenvolvi este projeto como meu Trabalho de Conclusão de Curso para a **House** (empresa criativa de design gráfico da Igreja da Cidade). Trata-se de um **sistema de gestão e automação de pedidos** focado em produtividade.
+
+**🎯 O que o sistema faz:**
+* **Centraliza** solicitações de design e vídeo.
+* **Otimiza** fluxos de trabalho (workflow) da equipe.
+* **Gera relatórios** para análise de dados e tomada de decisão.
+
+🔗 **Acesse o repositório completo:**
+[https://github.com/leoomartinelli/tcc-2025](https://github.com/leoomartinelli/tcc-2025)
 
 ---
 
