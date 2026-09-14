@@ -44,14 +44,6 @@ https://github.com/leoomartinelli/tcc-2025
 
 ---
 
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoomartinelli&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 * 📧 Email: [martinelliunivap@gmail.com](mailto:martinelliunivap@gmail.com)
