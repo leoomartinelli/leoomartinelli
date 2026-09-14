@@ -6,17 +6,16 @@
 
 # 👋 Olá, eu sou o Leonardo Martinelli
 
-🎓 **Cursando Ciência da Computação na Universidade do Vale do Paraíba (UNIVAP)**  
-📚 **1º semestre de 4 anos**
+🎓 Atualmente, estou cursando **Ciência da Computação na Universidade do Vale do Paraíba (UNIVAP)** — **1º semestre de 8 semestres**.
 
-💻 **Formado em Técnico em Informática** pelo Colégio Técnico Antônio Teixeira Fernandes - Colégio Univap Centro.
+💻 Sou formado em **Técnico em Informática** pelo Colégio Técnico Antônio Teixeira Fernandes - Colégio Univap Centro.
 
-🚀 Autor do desenvolvimento **"EDU SEF"**, sistema educacional financeiro.
+🚀 Sou autor do **EDU SEF**, um sistema educacional financeiro.
 
 🏅 **5º lugar na 14ª Maratona de Programação Júnior - 2025**
 
 🧑‍💻 Tenho **18 anos** e sou apaixonado por **tecnologia e programação**.  
-🎥 Como hobby, também gosto de **audiovisual**.
+🎥 No meu tempo livre, também gosto de **audiovisual**.
 
 ---
 
