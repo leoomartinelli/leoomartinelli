@@ -22,7 +22,7 @@
     <td>
       <strong>💼 Experiência</strong><br/>
       Desenvolvedor Trainee<br/>
-      <em>@Datacube</em>
+      <em>DATACUBE</em>
     </td>
     <td>
       <strong>🎖️ Conquista Recente</strong><br/>
