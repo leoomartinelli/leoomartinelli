@@ -24,7 +24,6 @@
 
 ## 📌 Projetos em Destaque
 
-🔗 [**Sistema Crescer**](https://github.com/leoomartinelli/sistema_crescer) – Site institucional do Colégio Crescer
 📑 [**TCC - Univap**](https://github.com/leoomartinelli/TCC) – Trabalho de Conclusão de Curso
 
 ---
