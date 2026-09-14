@@ -22,19 +22,6 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-| Tecnologia                                                                                                           | Nível | Foco                    |
-| :------------------------------------------------------------------------------------------------------------------- | :---- | :---------------------- |
-| ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)                       | ⭐⭐⭐⭐⭐ | Automação e Integrações |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)                       | ⭐⭐⭐⭐  | Desenvolvimento Backend |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E) | ⭐⭐⭐⭐  | Interatividade Web      |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)              | ⭐⭐⭐⭐  | Backend e Scripts       |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                       | ⭐⭐⭐⭐  | Controle de Versão      |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                 | ⭐⭐⭐   | Estrutura Web           |
-
----
-
 ## 📌 Projetos em Destaque
 
 🔗 [**Sistema Crescer**](https://github.com/leoomartinelli/sistema_crescer) – Site institucional do Colégio Crescer
