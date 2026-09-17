@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1db954,100:0d4620&height=220&section=header&text=Leonardo%20Martinelli&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b2942,100:2b0f1b&height=220&section=header&text=Leonardo%20Martinelli&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <h1 align="center">👋 Olá! Eu sou o Leonardo Martinelli</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=1db954&center=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Criador+do+EDU+SEF;Sempre+Aprendendo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=C65378&center=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Criador+do+EDU+SEF;Sempre+Aprendendo..." alt="Typing SVG" />
 </p>
 
 ---
@@ -139,5 +139,5 @@ Trabalho de Conclusão de Curso desenvolvido para a **House** (empresa criativa 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4620,100:1db954&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0f1b,100:6b2942&height=120&section=footer"/>
 </div>
